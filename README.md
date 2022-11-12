@@ -1,10 +1,10 @@
 ### Hey, many call me Saimer, but you can call me friend👋
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Let's+win+together;Let's+developer+together;Let's+Make+a+change+together&width=380&height=45"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Let's+win+together;Let's+developer+together;Let's+Make+a+change+together&width=380&height=45"></a>
 </p>
 
-<a href="https://www.instagram.com/saimer__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.instagram.com/saimer/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/saimer-nieves-a425b31b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:saimer.nieves@gmail.com@gmail.com?subject=Hello%20Saimer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
