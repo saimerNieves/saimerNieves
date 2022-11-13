@@ -37,6 +37,7 @@ const saimer = {
 ```
 <img align="right" width="100px" height="100px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saimerNieves&theme=radical)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimerNieves&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/saimerNieves/github-readme-stats)
 
