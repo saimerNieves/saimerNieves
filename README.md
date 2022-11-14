@@ -1,7 +1,7 @@
 ### Hey, many call me Saimer, but you can call me friend👋
 
 <p align="left">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Let's+win+together;Let's+developer+together;Let's+Make+a+change+together&width=380&height=45"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Let's+win+together;Let's+develop+together;Let's+Make+a+change+together&width=380&height=45"></a>
 </p>
 
 <a href="https://www.instagram.com/saimer/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
