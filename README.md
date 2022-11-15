@@ -39,7 +39,8 @@ const saimer = {
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saimerNieves&theme=material-palenight&hide=Jupyter&layout=compact)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saimerNieves&theme=material-palenight&hide=Jupyter&layout=compact)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimerNieves&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/saimerNieves/github-readme-stats)
 
