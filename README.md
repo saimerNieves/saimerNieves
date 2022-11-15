@@ -38,7 +38,9 @@ const saimer = {
 <img align="right" width="100px" height="100px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saimerNieves&theme=material-palenight&hide=Jupyter&layout=compact)](https://git.io/streak-stats) 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saimerNieves&theme=material-palenight&hide=Jupyter&layout=compact)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimerNieves&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/saimerNieves/github-readme-stats)
 
 ### Here's the languages that I am currently working on:
